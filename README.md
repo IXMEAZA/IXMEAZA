@@ -39,4 +39,4 @@
 
 ### 📬 Connect With Me
 * 📧 **Email:** [momen22122004@gmail.com](mailto:momen22122004@gmail.com)
-* 💼 **LinkedIn:** *(أضف رابط حسابك هنا إذا توفر)*
+* 💼 **LinkedIn:** https://www.linkedin.com/in/abdalmomen-essa-07065b397?utm_source=share_via&utm_content=profile&utm_medium=member_android
