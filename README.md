@@ -25,15 +25,19 @@ Software Engineering Student passionate about building modern cross-platform mob
 
 ### 📌 Featured Projects
 
-* **[QuizVenture](https://github.com/IXMEAZA)** — An interactive quiz application built with Flutter focusing on state management, custom models, and modular architecture.
+* **[QuizVenture](https://github.com/IXMEAZA/Quiz_App_by_momenOe)** — An interactive quiz application built with Flutter focusing on state management, custom models, and modular architecture.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IXMEAZA&show_icons=true&theme=dark" alt="Momen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IXMEAZA&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=IXMEAZA&show_icons=true&theme=dark" alt="Momen's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IXMEAZA&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IXMEAZA&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
